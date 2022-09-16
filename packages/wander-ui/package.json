@@ -20,7 +20,8 @@
     "test": "node ./__tests__/wander-ui.test.js"
   },
   "dependencies": {
-    "@wander/wander-utils": "^2.0.0"
+    "@wander/wander-utils": "^2.0.0",
+    "loadsh":"6.0.0"
   },
-  "gitHead": "3ee3e5b05b78a8b51a1e1922920bc0e6f5e55fcf"
+  "gitHead": "4db745752c10122e6dd8a26b1fb00b06afeef038"
 }

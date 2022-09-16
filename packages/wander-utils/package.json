@@ -19,5 +19,5 @@
   "scripts": {
     "test": "node ./__tests__/wander-utils.test.js"
   },
-  "gitHead": "3ee3e5b05b78a8b51a1e1922920bc0e6f5e55fcf"
+  "gitHead": "4db745752c10122e6dd8a26b1fb00b06afeef038"
 }
