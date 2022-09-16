@@ -1,0 +1,25 @@
+{
+  "name": "wander-ui",
+  "version": "1.0.0",
+  "description": "> TODO: description",
+  "author": "wangwei <1292627970@qq.com>",
+  "homepage": "",
+  "license": "ISC",
+  "main": "lib/wander-ui.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "publishConfig": {
+    "registry": "http://192.168.150.83:4873/"
+  },
+  "scripts": {
+    "test": "node ./__tests__/wander-ui.test.js"
+  },
+  "dependencies": {
+    "wander-utils": "^1.0.0"
+  }
+}
