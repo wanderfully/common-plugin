@@ -1,5 +1,5 @@
 /*
- * @LastEditTime: 2022-09-16 16:51:24
+ * @LastEditTime: 2022-09-16 16:54:03
  */
 'use strict';
 
@@ -8,7 +8,7 @@ module.exports = wanderUtils;
 
 function wanderUtils() {
     this.options = options
-    console.log('test plugin......')
+    console.log('test plugin.......')
     return "Hello from wanderUi";
 }
 wanderUtils.prototype.apply = function (compiler) {

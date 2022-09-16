@@ -14,7 +14,7 @@
     "lib"
   ],
   "publishConfig": {
-    "registry": "http://192.168.150.83:4873/"
+    "access": "public"
   },
   "scripts": {
     "test": "node ./__tests__/wander-ui.test.js"
@@ -23,5 +23,5 @@
     "@wander/wander-utils": "^2.0.1",
     "loadsh": "6.0.0"
   },
-  "gitHead": "4db745752c10122e6dd8a26b1fb00b06afeef038"
+  "gitHead": "6b6ad8ed01b086d9fca444a4c2ba888fec092d6e"
 }
