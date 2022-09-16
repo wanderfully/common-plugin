@@ -6,5 +6,14 @@
   ],
   "devDependencies": {
     "lerna": "^5.5.1"
+  },
+  "dependencies": {
+    "adm-zip": "^0.5.9",
+    "user": "0.0.0"
+  },
+  "scripts": {
+    "test": "node __tests__/index.test.js",
+    "build": "babel --m=umd src --out-dir dist",
+    "publish": "yarn build && npm publish"
   }
 }
