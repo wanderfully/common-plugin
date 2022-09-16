@@ -1,6 +1,6 @@
 {
   "name": "@wander/wander-ui",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "> TODO: description",
   "author": "wangwei <1292627970@qq.com>",
   "homepage": "",
@@ -20,7 +20,7 @@
     "test": "node ./__tests__/wander-ui.test.js"
   },
   "dependencies": {
-    "@wander/wander-utils": "^1.0.0"
+    "@wander/wander-utils": "^2.0.0"
   },
   "gitHead": "3ee3e5b05b78a8b51a1e1922920bc0e6f5e55fcf"
 }
