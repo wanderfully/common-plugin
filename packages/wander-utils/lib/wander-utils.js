@@ -1,5 +1,5 @@
 /*
- * @LastEditTime: 2022-09-16 15:52:28
+ * @LastEditTime: 2022-09-16 16:40:47
  */
 'use strict';
 
@@ -13,6 +13,7 @@ function wanderUtils() {
 }
 wanderUtils.prototype.apply = function (compiler) {
     const output = compiler.options.output.path
+    console.log(output)
     compiler.hooks.done.tap('wanderUtils', stats => {
         const allFilesName = states.toJson().assets.map(asset => asset.name.split('/')[0])
         const allFiles = [...new Set(allFilesName)]

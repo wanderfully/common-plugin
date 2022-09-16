@@ -21,5 +21,6 @@
   },
   "dependencies": {
     "@wander/wander-utils": "^1.0.0"
-  }
+  },
+  "gitHead": "3ee3e5b05b78a8b51a1e1922920bc0e6f5e55fcf"
 }
