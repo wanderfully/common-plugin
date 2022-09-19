@@ -1,5 +1,5 @@
 {
-  "name": "@wander/wander-ui",
+  "name": "@mrwander/mrwander-ui",
   "version": "2.0.2",
   "description": "> TODO: description",
   "author": "wangwei <1292627970@qq.com>",
@@ -23,5 +23,5 @@
     "@wander/wander-utils": "^2.0.2",
     "loadsh": "6.0.0"
   },
-  "gitHead": "6b6ad8ed01b086d9fca444a4c2ba888fec092d6e"
+  "gitHead": "f872f517b2a4bdd89d5569b519b8e0e646715e25"
 }

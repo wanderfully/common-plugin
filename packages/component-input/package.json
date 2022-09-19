@@ -1,5 +1,5 @@
 {
-  "name": "@wander/wander-component-input",
+  "name": "@mrwander/mrwander-component-input",
   "version": "2.0.2",
   "description": "> TODO: description",
   "author": "wangwei <1292627970@qq.com>",
@@ -14,10 +14,11 @@
     "lib"
   ],
   "publishConfig": {
-    "access": "public"
+    "access": "public",
+    "private": false
   },
   "scripts": {
     "test": "node ./__tests__/component-input.test.js"
   },
-  "gitHead": "6b6ad8ed01b086d9fca444a4c2ba888fec092d6e"
+  "gitHead": "f872f517b2a4bdd89d5569b519b8e0e646715e25"
 }

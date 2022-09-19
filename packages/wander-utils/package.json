@@ -1,5 +1,5 @@
 {
-  "name": "@wander/wander-utils",
+  "name": "@mrwander/mrwander-utils",
   "version": "2.0.2",
   "description": "common daily methods",
   "author": "wangwei <1292627970@qq.com>",
@@ -19,5 +19,5 @@
   "scripts": {
     "test": "node ./__tests__/wander-utils.test.js"
   },
-  "gitHead": "6b6ad8ed01b086d9fca444a4c2ba888fec092d6e"
+  "gitHead": "f872f517b2a4bdd89d5569b519b8e0e646715e25"
 }
